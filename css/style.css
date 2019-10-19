@@ -281,8 +281,8 @@ Full-Width Styles
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
-.forkme_banner .github{right:26% !important;}
-.forkme_banner .gitee{right:0 !important;}
+.github{right:26% !important;}
+.gitee{right:0 !important;}
 #header_wrap {
   background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
